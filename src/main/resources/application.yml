@@ -1,0 +1,9 @@
+spring:
+  jackson:
+    time-zone: America/Lima
+    locale: es_PE
+  data:
+    mongodb:
+      database: clientBD
+      port: 27017
+      host: localhost
